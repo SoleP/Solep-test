@@ -31,6 +31,16 @@
   </a>
 </h1>
 
+<a href="https://www.behance.net/soleadadpriano?isa0=1">
+  <img align="center" 
+       alt="Behance" 
+       width="22px"
+       src="https://user-images.githubusercontent.com/79757978/124381571-24d70b00-dcbb-11eb-855f-89fbd0df9ae6.png" />
+  </a>
+</h1>
+
+
+
 <!-- Background -->
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
@@ -43,17 +53,22 @@
 <p><H3 align="center"><strong> Technical Skills: 
 
 </strong></p>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687639-117e8f80-0bc2-11eb-8aea-f236a8eca50b.png"></code>
-  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
-   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png"></code>
-  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
-  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100307358-3c068b00-2f6b-11eb-9f07-e262ad248471.png"></code>
+ 
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124381659-8d25ec80-dcbb-11eb-9de5-136446217d58.png"></code><!--HTML-->
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124381698-cf4f2e00-dcbb-11eb-83c8-61f4cc018f08.png"></code><!--CSS-->
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124381743-0b828e80-dcbc-11eb-8ec3-8872c5e73a9d.png"></code><!--SASS-->
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124381795-42f13b00-dcbc-11eb-9881-ae68fede9d62.png"></code><!--Worpress-->
+ 
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124381889-a5e2d200-dcbc-11eb-8d8f-5cd541e26642.png"></code><!--Visual Studio Code-->
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124382354-e3485f00-dcbe-11eb-8243-77e22fa98b84.png"></code><!--Filezilla-->
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124381962-0114c480-dcbd-11eb-9f42-f89a5f0de8cc.png"></code><!--Windows-->
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124382070-6c5e9680-dcbd-11eb-8fca-2308fd29d6eb.png"></code><!--Google Drive-->
+ 
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124380907-6796e400-dcb7-11eb-9d14-b5325040e0bf.png"></code><!--PS-->
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124381032-484c8680-dcb8-11eb-95d0-f46acb60bc40.png"></code><!--AI--> 
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124381456-9c586a80-dcba-11eb-8cca-ef492bc9ecbf.png"></code><!--XD-->
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124381394-38ce3d00-dcba-11eb-93dd-1f0e6c0dd87f.png"></code><!--CorelDraw-->
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124381395-3966d380-dcba-11eb-9f43-c63c0dd764b1.png"></code><!--Autocad-->
 
 </p>
 &nbsp; 
@@ -61,32 +76,16 @@
 <!-- Skills to learn -->
 <p><H3 align="center"><strong>Skills to learn: 
  </strong></p>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
- <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png"></code> 
- <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png"></code>  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>
-
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
- <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
- 
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
-
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>
- 
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686553-d4170380-0bbb-11eb-94f2-c528413c7bad.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
- 
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687569-95844780-0bc1-11eb-8bdb-93fb29d10602.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688226-c6ff1200-0bc5-11eb-82cc-33e35bcb0910.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
   
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124382140-d37c4b00-dcbd-11eb-88dc-25e9c35c3eda.png"></code> <!--JS-->
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124382161-e8f17500-dcbd-11eb-928a-5306a6c6520d.png"></code> <!--Phyton-->
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124382184-06264380-dcbe-11eb-9c78-18dda1e775b6.png"></code> <!--Android--> 
+ 
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124382217-32da5b00-dcbe-11eb-8ecd-1e14a98c0def.png"></code> <!--MySql-->
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124382313-a8dec200-dcbe-11eb-8399-218ad6acaa49.png"></code> <!--PHP-->
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124382274-76cd6000-dcbe-11eb-8cbd-78d4577e0acf.png"></code> <!--Node-->
+
+
   </p>
                                                                                                                                    
  &nbsp;
@@ -102,7 +101,7 @@
   
 <a href="https://github.com/Lunox-code?tab=repositories">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
+       src="https://camo.githubusercontent.com/ed91310340bcc4d8e7239c460d42a5bf81fb688bb6f5b7fb48ec31d320180cb3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7675652d6461726b" 
        alt='Lunox's favorite languages" />
 </a>
   
