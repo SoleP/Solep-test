@@ -91,8 +91,7 @@
  &nbsp;
 
 <!-- GitHub Stats -->
-<H2 align="center"><strong>GitHub Statistics: 
- 
+<H2 align="center"><strong>GitHub Statistics:  
   </strong>
 </H2>
     <p align="center">
@@ -102,11 +101,7 @@
 <a href="https://github.com/SoleP?tab=repositories">
   <img align="center" 
        src="https://camo.githubusercontent.com/ed91310340bcc4d8e7239c460d42a5bf81fb688bb6f5b7fb48ec31d320180cb3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7675652d6461726b" 
-       alt='Lunox's favorite languages" />
+       alt='Sole's favorite languages" />
 </a>
   
-<a href="https://github.com/SoleP">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
-</a>
 }
