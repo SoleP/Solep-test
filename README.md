@@ -76,7 +76,8 @@
 <!-- Skills to learn -->
 <p><H3 align="center"><strong>Skills to learn: 
  </strong></p>
-  
+
+ <code><img height="40" src="https://user-images.githubusercontent.com/79757978/125644046-2c25e3ce-f14e-4420-bfd1-1a19c2cdfd1e.png"></code> <!--Angular-->
  <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124382140-d37c4b00-dcbd-11eb-88dc-25e9c35c3eda.png"></code> <!--JS-->
  <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124382161-e8f17500-dcbd-11eb-928a-5306a6c6520d.png"></code> <!--Phyton-->
  <code><img height="40" src="https://user-images.githubusercontent.com/79757978/124382184-06264380-dcbe-11eb-9c78-18dda1e775b6.png"></code> <!--Android--> 
